@@ -1,1 +1,1 @@
-[image](https://nagulan51.github.io/nagulan/img/1.jpg)
+![image](https://nagulan51.github.io/nagulan/img/1.jpg)
